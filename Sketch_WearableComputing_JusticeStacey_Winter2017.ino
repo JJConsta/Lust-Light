@@ -1,4 +1,10 @@
-
+/* 
+Lust & Light 
+Justice Stacey
+Wearable Computing GDES-3015-001
+OCAD University 
+Created on March 1, 2017
+*/
 int LEDred = 13; 
 int LEDwhite = 11; 
 int analogPin = A0; 
